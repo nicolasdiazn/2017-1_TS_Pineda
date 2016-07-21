@@ -24,6 +24,7 @@ Temario (16 semanas):
    * Comandos basicos: add, commit, push, pull y clone
    * Pull request y merging
 2. Git
+2. Git prima
 3. Julia (diagonalizacion, hablar de RMT, o del mapeo logistico)
    * Sintaxis
    * Jupyper-notebook
