@@ -1,7 +1,8 @@
-# 2016-2 Temas Selectos de Física Computacional (8314)
+# 2017-1 Temas Selectos de Física Computacional II (8306)
+# Información cuantica y sistemas de espín
 
-### Luis Benet, [Instituto de Ciencias Físicas](http://www.fis.unam.mx), UNAM
-### Uriel Allan Aceves Rodríguez, Facultad de Ciencias, UNAM
+### Carlos Pineda, Instituto de Física, UNAM
+### David Davalos, Instituto de Física, UNAM
 
 ---
 
@@ -9,14 +10,6 @@
 ![3 body choreography](http://tuvalu.santafe.edu/~moore/figure8-3.loop.gif)
 
 ---
-
-[comment]: <> (This is a comment, it will not be included)
-[comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
-Or you could go further:
-
-[//]: <> (This is also a comment.)
-To improve platform compatibility (and to save one keystroke) it is also possible to use # (which is a legitimate hyperlink target) instead of <>:
 
 [//]: # (This may be the most platform independent comment)
 
