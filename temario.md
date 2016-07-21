@@ -14,7 +14,8 @@ Aprender elementos de información cuántica.
 
 * Ojo, estandarizar la definicion de los objetos,nerrar lso qubits, que es el qubit cero, el primer elemento del array es 1 o es 0 
 
-Temario, 16 semanas. 
+Temario (16 semanas):
+=====================
 0. Introduccion, plan general, evaluación (tareas binarias)
    * Instalación de git 
    Introducción al curso: temario, evaluación etc. Platicar objetivos de la
