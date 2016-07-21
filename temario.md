@@ -18,6 +18,7 @@ Temario (16 semanas):
 =====================
 0. Introduccion, plan general, evaluación (tareas binarias)
    * Instalación de git 
+
    Introducción al curso: temario, evaluación etc. Platicar objetivos de la
    clase y la forma en que se trabajará, mencionar lo de las tareas binarias.
 1. Git
