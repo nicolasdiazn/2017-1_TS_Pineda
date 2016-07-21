@@ -3,6 +3,7 @@
 
 ### Carlos Pineda, Instituto de Física, UNAM
 ### David Davalos, Instituto de Física, UNAM
+### El formato y métodos de este curso estan inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional)
 
 ---
 
