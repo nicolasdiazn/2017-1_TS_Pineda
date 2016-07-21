@@ -6,7 +6,7 @@
 
 ---
 
-![Galilean moons](http://astronomy2009.nasa.gov/images/observe/sep/galileoMoons.jpg)![Lorenz atractor](http://www.hyperraum.ch/lorenz-attraktor.jpg)
+![Galilean moons](iamges/random.jpg)![Lorenz atractor](http://www.hyperraum.ch/lorenz-attraktor.jpg)
 ![3 body choreography](http://tuvalu.santafe.edu/~moore/figure8-3.loop.gif)
 
 ---
