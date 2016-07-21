@@ -6,7 +6,7 @@
 
 ---
 
-![Galilean moons](iamges/random.jpg)![Lorenz atractor](http://www.hyperraum.ch/lorenz-attraktor.jpg)
+![A random matrix](images/random.jpg)![Lorenz atractor](http://www.hyperraum.ch/lorenz-attraktor.jpg)
 ![3 body choreography](http://tuvalu.santafe.edu/~moore/figure8-3.loop.gif)
 
 ---
