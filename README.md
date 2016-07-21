@@ -20,7 +20,7 @@ Por determinar
 [//]: # (Laboratorio de Cómputo III, Depto Física (2o piso), Fac. Ciencias, UNAM,)
 [//]: # (los lunes y martes 2:00-4:00 PM)
 
-(Nuestros datos de contacto están en la [página](http://www.fciencias.unam.mx/docencia/horarios/presentacion/269493) de presentación del curso.)
+(Nuestros datos de contacto están en la [página](http://www.fciencias.unam.mx/docencia/horarios/presentacion/274767) de presentación del curso.)
 
 
 #### Contenido
