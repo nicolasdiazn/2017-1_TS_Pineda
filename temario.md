@@ -1,4 +1,5 @@
 Objetivos: 
+==========
 
 Enseñar algunas herramientas de programación eficientes y modernas
 para poder atacar problemas actuales. Escogemos Julia y git
