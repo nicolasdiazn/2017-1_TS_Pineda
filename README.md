@@ -10,6 +10,17 @@
 
 ---
 
+[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)
+Or you could go further:
+
+[//]: <> (This is also a comment.)
+To improve platform compatibility (and to save one keystroke) it is also possible to use # (which is a legitimate hyperlink target) instead of <>:
+
+[//]: # (This may be the most platform independent comment)
+
+
 
 **Lugar y horario**:
 Laboratorio de Cómputo III, Depto Física (2o piso), Fac. Ciencias, UNAM,
