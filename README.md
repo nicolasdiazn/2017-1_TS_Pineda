@@ -3,7 +3,7 @@
 
 ### Carlos Pineda, Instituto de Física, UNAM
 ### David Davalos, Instituto de Física, UNAM
-### El formato y métodos de este curso estan inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional)
+### El formato y métodos de este curso estan inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional). Sin embargo, el contenido del curso es bastante diferente.
 
 ---
 
@@ -25,11 +25,11 @@ Por determinar
 
 #### Contenido
 
-1. Herramientas computacionales: [lenguaje Julia](http://julialang.org), [git](https://www.atlassian.com/git/tutorials/) y [markdown](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide).
+1. Herramientas computacionales I: [git](https://www.atlassian.com/git/tutorials/) y [markdown](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide).
 
-2. Diferenciación automática: derivadas de primer orden.
+2. Herramientas computacionales II: [lenguaje Julia](http://julialang.org), y [Travis CI](https://travis-ci.org/).
 
-3. Diferenciación automática: derivadas de orden superior.
+3. Diferenciación automática: derivadas de primer orden.
 
 4. Método de Taylor de integración de ODEs.
 
