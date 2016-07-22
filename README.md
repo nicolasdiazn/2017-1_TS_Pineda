@@ -39,19 +39,23 @@ Por determinar (horario tentativo, jueves de 3pm a 6pm)
 #### Calificaciones:
 
 - **Tareas**: 30%.
-
 - **Proyecto final**: 70%
 
-Es requisito *indispensable* para entrar al examen final (presentación del proyecto final) tener entregadas *y aceptadas* al menos 75% de las tareas. Las tareas se enviarán como [pull request](https://help.github.com/articles/using-pull-requests/) por GitHub. A su debido tiempo, deben pasar los tests de CI Travis. El tiempo máximo de entrega de cada tarea es de 2 semanas.
+Es requisito *indispensable* para entrar al examen final (presentación del
+proyecto final) tener entregadas *y aceptadas* al menos 75% de las tareas. Las
+tareas se enviarán como [pull
+request](https://help.github.com/articles/using-pull-requests/) por GitHub. A
+su debido tiempo, deben pasar los tests de CI Travis. El tiempo máximo de
+entrega de cada tarea es de 2 semanas.
 
 El proyecto final consiste en desarrollar un tema en donde utilizen las
 herramientas del curso a un sistema dinámico concreto. Los temas concretos
 serán propuestos a su debido tiempo, pero encontraran algunas ideas preliminares en el 
-[temario](temario.md). La presentación consiste de un seminario
-de 20-25 minutos (usando el [Jupyter notebook](jupyter.org) o en pdf);
-la presentación debe ser previamente enviada por email.
+[temario](temario.md). La presentación consiste de una charla
+de 10-15 minutos (usando el [Jupyter notebook](jupyter.org)).
 
-Las tareas se pueden hacer en equipo (*excepto la primera*); el proyecto final se *debe* hacer en equipo. La participación individual de cada uno de los integrantes del equipo será medida usando GitHub.
+Las tareas son individuales; el proyecto final se *puede* hacer en equipo, pero
+la presentación será individual. 
 
 
 #### Materiales del curso
