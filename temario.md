@@ -68,6 +68,8 @@ Algunas alternativas para proyectos finales
   Estudiar numéricamente las propiedades espectrales de matrices aleatorias y compararlas con un espectro de una cadena inhomogénea.
 * _Simular el algoritmo de Shor_-
 * _Simular cluster quantum computing_-
-* _Alguna alternativa propuesta por ustedes_- Pueden proponer un proyecto, pero este debe ser aceptado. Debe tener un objetivo claro y debe hacer uso de algunas herramientas propuestas en clase.
+* _Alguna alternativa propuesta por ustedes_- 
+  Pueden proponer un proyecto, pero este debe ser aceptado. Debe tener un
+  objetivo claro y debe hacer uso de algunas herramientas propuestas en clase.
 * _Una base simetrica para la cadena de Ising_- Estudiar la cadena de Ising y constuir una base que sea consistente con dicha simetría.
 
