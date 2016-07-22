@@ -53,8 +53,6 @@ Temario (16 semanas):
 9. Compuertas de dos qubits y algun ejemplo, entaglement swaping?
 10. Concatenacion de compuertas, cadena con un defecto. (ver con carlos gonzales) 
 
-Benchmarking en velocidad y en memoria
-
 Quiza en las cosas introductorias de Julia, poner algo de RMT. Quiza la P(s). 
 
 Uno de los proyectos, puede ser construir la base simetrica para la cadena
@@ -68,4 +66,5 @@ Algunas alternativas para proyectos finales
 * _Simular el algoritmo de Shor_-
 * _Simular cluster quantum computing_-
 * _Alguna alternativa propuesta por ustedes_- Pueden proponer un proyecto, pero este debe ser aceptado. Debe tener un objetivo claro y debe hacer uso de algunas herramientas propuestas en clase.
+* _Una base simetrica para la cadena de Ising_- Estudiar la cadena de Ising y constuir una base que sea consistente con dicha simetría.
 
