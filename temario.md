@@ -1,3 +1,8 @@
+Nota:
+=====
+Este documento irá cambiando conforme evolucione el curso. Organizaré el temario
+por clases, y conforme vea que vayamos avanzando.
+
 Objetivos: 
 ==========
 
@@ -41,17 +46,18 @@ Temario (16 semanas):
    * Estandarización de objetos.
 1. Julia (dibujos y ejemplos bonitos, optica cuantica)
 1. Julia (bitwise operations, loops, )
-6. CI Travis 
-7. Benchmark velocidad y memoria en Julia
+1. CI Travis 
+1. Qubit?
+1. Benchmark velocidad y memoria en Julia
 ******
 1. Sistemas de 1 qubit, esfera de Bloch, numeración en sistemas
    de n qubits. 
 1. Traza parcial, programación de traza parcial y significado físico de la traza.
    Estados enredados, valores esperados en estados de Bell. 
 
-8. Estados de n qubits y compuertas de un qubit, tomografia
-9. Compuertas de dos qubits y algun ejemplo, entaglement swaping?
-10. Concatenacion de compuertas, cadena con un defecto. (ver con carlos gonzales) 
+1. Estados de n qubits y compuertas de un qubit, tomografia
+1. Compuertas de dos qubits y algun ejemplo, entaglement swaping?
+1. Concatenacion de compuertas, cadena con un defecto. (ver con carlos gonzales) 
 
 Quiza en las cosas introductorias de Julia, poner algo de RMT. Quiza la P(s). 
 
