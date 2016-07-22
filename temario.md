@@ -29,7 +29,11 @@ Temario (16 semanas):
 1. Git
    * Comandos basicos: add, commit, push, pull y clone
    * Pull request y merging
-
+   * Propongo que en esta clase todos comiencen con su libreria, que hagan una
+     cuenta y clonen el repositorio y agreguen por lo menos un primer commit.
+   * Aqui Luis y David hicieron un primer ejemplo de libreria, todos hicimos
+     git fork y comenzamos a contribuir solicitando pull request a la copia
+     principal.
 1. Git
 1. Git prima
 1. Julia (diagonalizacion, hablar de RMT, o del mapeo logistico)
@@ -47,15 +51,27 @@ Temario (16 semanas):
 1. Julia (dibujos y ejemplos bonitos, optica cuantica)
 1. Julia (bitwise operations, loops, )
 1. CI Travis 
-1. Qubit?
+1. Qutip?
+   * Clase de qutip, esta seria con una pequeña introduccion a python.
 1. Benchmark velocidad y memoria en Julia
 ******
 1. Sistemas de 1 qubit, esfera de Bloch, numeración en sistemas
    de n qubits. 
+   * Hadamard
+   * Estados aleatorios en una dimension y en n dimensiones
+   * Compuertas de pauli
+   * Compuertas de 1 qubit: $\hat O=\mathbb{1}+ \vec v \cdot \vec \sigma$, ver
+     rotaciones en la esfera de Bloch
 1. Traza parcial, programación de traza parcial y significado físico de la traza.
    Estados enredados, valores esperados en estados de Bell. 
-
+   * qubits en general
+   * sistemas bipartitos con dimensión arbitraria factorizable.
 1. Estados de n qubits y compuertas de un qubit, tomografia
+   * Estados de $N$ qubits: Separables y enredados, definición estándar del objeto en Julia.
+   * Compuertas de 2 qubits: CNOT, $\sigma^z \sigma^z}$
+   * modelo XYZ
+   * Tomografía de un qubit
+   * Decoherencia Explicar un poco de spin flip, phase flip, etc.
 1. Compuertas de dos qubits y algun ejemplo, entaglement swaping?
 1. Concatenacion de compuertas, cadena con un defecto. (ver con carlos gonzales) 
 
@@ -83,4 +99,8 @@ Algunas alternativas para proyectos finales
 * _Una base simetrica para la cadena de Ising_- 
   Estudiar la cadena de Ising y constuir una base que sea consistente con dicha
   simetría.
-
+* Rompimiento de simetria y caos cuantico: Trabajo de Carlos.
+* ambientes anidados
+\item Transformada cuantica de fourier
+\item Que tal que implementen todo el asunto de representaciones de canales cuanticos y operaciones importantes como Reshuffling y esas cosas.
+\item Cosas de variable continua tipo qutip.
