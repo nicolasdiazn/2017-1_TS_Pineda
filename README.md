@@ -29,7 +29,7 @@ Por determinar
 
 2. Herramientas computacionales II: [lenguaje Julia](http://julialang.org), y [Travis CI](https://travis-ci.org/).
 
-3.
+3. Hola
 
 4. Método de Taylor de integración de ODEs.
 
