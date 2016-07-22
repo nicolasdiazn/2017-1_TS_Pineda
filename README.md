@@ -16,7 +16,7 @@
 
 
 **Lugar y horario**:
-Por determinar
+Por determinar (horario tentativo, jueves de 3pm a 6pm)
 [//]: # (Laboratorio de Cómputo III, Depto Física (2o piso), Fac. Ciencias, UNAM,)
 [//]: # (los lunes y martes 2:00-4:00 PM)
 
