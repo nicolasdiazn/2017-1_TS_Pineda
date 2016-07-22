@@ -24,7 +24,6 @@ Por determinar (horario tentativo, jueves de 3pm a 6pm)
 
 
 #### Contenido
-
 1. Herramientas computacionales I: [git](https://www.atlassian.com/git/tutorials/) y [markdown](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide).
 2. Herramientas computacionales II: [lenguaje Julia](http://julialang.org), y [Travis CI](https://travis-ci.org/).
 3. Sistemas cuánticos de uno y varios qubits.
