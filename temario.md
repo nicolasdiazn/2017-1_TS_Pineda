@@ -63,7 +63,7 @@ Uno de los proyectos, puede ser construir la base simetrica para la cadena
 Algunas alternativas para proyectos finales
 =====================
 
-* Teoría de matrices aleatorias. 
+* _Teoría de matrices aleatorias_-
   Estudiar numéricamente las propiedades espectrales de matrices aleatorias y compararlas con un espectro de una cadena inhomogénea.
-* Simular el algoritmo de Shor
+* _Simular el algoritmo de Shor_-
 
