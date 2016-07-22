@@ -34,6 +34,7 @@ Por determinar (horario tentativo, jueves de 3pm a 6pm)
 #### Calificaciones:
 - **Tareas**: 30%.
 - **Proyecto final**: 70%
+
 Es requisito *indispensable* para entrar al examen final (presentación del
 proyecto final) tener entregadas *y aceptadas* al menos 75% de las tareas. Las
 tareas se enviarán como [pull
@@ -59,27 +60,15 @@ en combinación con [IJulia](https://github.com/JuliaLang/IJulia.jl) en clase.
 
 
 #### Ligas de interés
-
 - **Julia**
 	- [http://julialang.org/](julialang.org)
-
 	- [Tutorial de David Sanders (scipy2014)](https://github.com/dpsanders/scipy_2014_julia/blob/master/Introduction%20to%20Julia.ipynb)
-
 	- [Hands_on_julia](https://github.com/dpsanders/hands_on_julia)
-
 	- [JuliaBox](juliabox.org)
-
-
 - **Tutoriales de git**
-
 	- [Become a Git guru](https://www.atlassian.com/git/tutorials/)
-
 	- [Learn Git branching](http://pcottle.github.io/learnGitBranching)
-        
 	- [Hello World en GitHub](https://guides.github.com/activities/hello-world/)
-
 	- [Sincronizar un fork](https://help.github.com/articles/syncing-a-fork/)
-
 - **Guía de sintaxis en markdown**
-
 	- [Markdown syntax guide](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)
