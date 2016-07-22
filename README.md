@@ -32,10 +32,8 @@ Por determinar (horario tentativo, jueves de 3pm a 6pm)
 
 
 #### Calificaciones:
-
 - **Tareas**: 30%.
 - **Proyecto final**: 70%
-
 Es requisito *indispensable* para entrar al examen final (presentación del
 proyecto final) tener entregadas *y aceptadas* al menos 75% de las tareas. Las
 tareas se enviarán como [pull
