@@ -59,7 +59,11 @@ Quiza en las cosas introductorias de Julia, poner algo de RMT. Quiza la P(s).
 
 Uno de los proyectos, puede ser construir la base simetrica para la cadena
 
-| Day     | Meal    | Price |
-| --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+
+Algunas alternativas para proyectos finales
+=====================
+
+* Teoría de matrices aleatorias. 
+  Estudiar numéricamente las propiedades espectrales de matrices aleatorias y compararlas con un espectro de una cadena inhomogénea.
+* Simular el algoritmo de Shor
+
