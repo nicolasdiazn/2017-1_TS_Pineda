@@ -40,7 +40,7 @@ Temario (16 semanas):
    * Benchmarking (tic() tac()): Memoria y CPU.
    * Estandarización de objetos.
 4. Julia (dibujos y ejemplos bonitos, optica cuantica)
-5. Julia (bitwise operations, loops, )
+*. Julia (bitwise operations, loops, )
 6. CI Travis 
 7. Benchmark velocidad y memoria en Julia
 ******
@@ -59,17 +59,22 @@ Uno de los proyectos, puede ser construir la base simetrica para la cadena
 
 Lista de ejemplos para estudiar a medida que aprendemos Julia
 =============================================================
-
+* Entanglement swaping 
+* Nearest neighbour spacing (GUE, GOE y aleatoria)
+* Tomografía cuántica
 
 Algunas alternativas para proyectos finales
 ===========================================
 
 * _Teoría de matrices aleatorias_-
-  Estudiar numéricamente las propiedades espectrales de matrices aleatorias y compararlas con un espectro de una cadena inhomogénea.
+  Estudiar numéricamente las propiedades espectrales de matrices aleatorias y
+  compararlas con un espectro de una cadena inhomogénea.
 * _Simular el algoritmo de Shor_-
 * _Simular cluster quantum computing_-
 * _Alguna alternativa propuesta por ustedes_- 
   Pueden proponer un proyecto, pero este debe ser aceptado. Debe tener un
   objetivo claro y debe hacer uso de algunas herramientas propuestas en clase.
-* _Una base simetrica para la cadena de Ising_- Estudiar la cadena de Ising y constuir una base que sea consistente con dicha simetría.
+* _Una base simetrica para la cadena de Ising_- 
+  Estudiar la cadena de Ising y constuir una base que sea consistente con dicha
+  simetría.
 
