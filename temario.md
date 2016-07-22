@@ -16,7 +16,7 @@ Aprender elementos de información cuántica.
 
 Temario (16 semanas):
 =====================
-0. Introduccion, plan general, evaluación (tareas binarias)
+1. Introduccion, plan general, evaluación (tareas binarias)
    * Instalación de git 
 
    Introducción al curso: temario, evaluación etc. Platicar objetivos de la
@@ -25,9 +25,9 @@ Temario (16 semanas):
    * Comandos basicos: add, commit, push, pull y clone
    * Pull request y merging
 
-2. Git
-2. Git prima
-3. Julia (diagonalizacion, hablar de RMT, o del mapeo logistico)
+1. Git
+1. Git prima
+1. Julia (diagonalizacion, hablar de RMT, o del mapeo logistico)
    * Sintaxis
    * Jupyper-notebook
      * Markdown
@@ -39,8 +39,8 @@ Temario (16 semanas):
    * Loops: definir bien el conteo de los elementos del estado.
    * Benchmarking (tic() tac()): Memoria y CPU.
    * Estandarización de objetos.
-4. Julia (dibujos y ejemplos bonitos, optica cuantica)
-*. Julia (bitwise operations, loops, )
+1. Julia (dibujos y ejemplos bonitos, optica cuantica)
+1. Julia (bitwise operations, loops, )
 6. CI Travis 
 7. Benchmark velocidad y memoria en Julia
 ******
