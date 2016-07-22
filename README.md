@@ -36,7 +36,7 @@ Por determinar
 5. Desarrollo del proyecto final semestral.
 
 
-#### Calificaciones
+#### Calificaciones:
 
 - **Tareas**: 30%.
 
