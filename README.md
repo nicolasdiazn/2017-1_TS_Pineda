@@ -3,7 +3,7 @@
 
 ### Carlos Pineda, Instituto de Física, UNAM
 ### David Davalos, Instituto de Física, UNAM
-### El formato y métodos de este curso estan inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional). Sin embargo, el contenido del curso es bastante diferente.
+El formato y métodos de este curso estan inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional). Sin embargo, el contenido del curso es bastante diferente.
 
 ---
 
@@ -42,13 +42,13 @@ request](https://help.github.com/articles/using-pull-requests/) por GitHub. A
 su debido tiempo, deben pasar los tests de CI Travis. El tiempo máximo de
 entrega de cada tarea es de 2 semanas.
 
-El proyecto final consiste en desarrollar un tema en donde utilizen las
-herramientas del curso a un sistema dinámico concreto. Los temas concretos
-serán propuestos a su debido tiempo, pero encontraran algunas ideas preliminares en el 
-[temario](temario.md). La presentación consiste de una charla
-de 10-15 minutos (usando el [Jupyter notebook](jupyter.org)).
+El proyecto final consiste en estudiar un problema usando las herramientas
+herramientas desarrolladas en el curso y presentarlo en forma oral. Los
+problemas serán propuestos a su debido tiempo. Pueden encontrar algunas
+propuestas preliminares en el [temario](temario.md). La presentación consiste
+de una charla de 10-15 minutos.
 
-Las tareas son individuales; el proyecto final se *puede* hacer en equipo, pero
+Las tareas son individuales; el proyecto final se puede hacer en equipo, pero
 la presentación será individual. 
 
 
@@ -72,3 +72,5 @@ en combinación con [IJulia](https://github.com/JuliaLang/IJulia.jl) en clase.
 	- [Sincronizar un fork](https://help.github.com/articles/syncing-a-fork/)
 - **Guía de sintaxis en markdown**
 	- [Markdown syntax guide](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)
+- **Travis CI**
+	- [Guía oficial](https://docs.travis-ci.com/)
