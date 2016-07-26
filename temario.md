@@ -23,9 +23,7 @@ Temario (16 semanas):
 1. Git
    * Comandos basicos: add, commit, push, pull y clone.
    * Pull request y merging.
-[//]: # (
-   * Propongo que en esta clase todos comiencen con su libreria, que hagan una
-     cuenta y clonen el repositorio y agreguen por lo menos un primer commit.
+[//]: # ( * Propongo que en esta clase todos comiencen con su libreria, que hagan una cuenta y clonen el repositorio y agreguen por lo menos un primer commit. )
    * Aqui Luis y David hicieron un primer ejemplo de libreria, todos hicimos
      git fork y comenzamos a contribuir solicitando pull request a la copia
      principal.)
