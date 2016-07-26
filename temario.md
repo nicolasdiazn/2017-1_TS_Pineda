@@ -5,9 +5,9 @@ por clases y lo adaptaremso conforme vayamos avanzando.
 
 Objetivos: 
 ==========
-* Enseñar algunas herramientas de programación eficientes y modernas (Julia,
+* Conocer algunas herramientas de programación eficientes y modernas (Julia,
   git y Travis CI) para poder atacar problemas actuales. 
-* También deseamos enseñar a usar herramientas que permitan _colaborar_ de manera eficiente.
+* Aprender a usar git para _colaborar_ de manera eficiente.
 * Saber como se piensa cuando se hace investigación, es decir de manera no
   lineal y sin un camino claro. 
 * Aprender elementos de información cuántica.
@@ -15,21 +15,20 @@ Objetivos:
 
 Temario (16 semanas):
 =====================
-1. Introduccion, plan general, evaluación (tareas binarias)
+1. Introduccion, plan general y evaluación.
    * Instalación de git 
 
-   Introducción al curso: temario, evaluación etc. Platicar objetivos de la
-   clase y la forma en que se trabajará, mencionar lo de las tareas binarias.
+   Introducción al curso: temario, evaluación y objetivos.
+   Se comentará en general el estilo de trabajo para el curso.
 1. Git
-   * Comandos basicos: add, commit, push, pull y clone
-   * Pull request y merging
+   * Comandos basicos: add, commit, push, pull y clone.
+   * Pull request y merging.
+[//]: # (
    * Propongo que en esta clase todos comiencen con su libreria, que hagan una
      cuenta y clonen el repositorio y agreguen por lo menos un primer commit.
    * Aqui Luis y David hicieron un primer ejemplo de libreria, todos hicimos
      git fork y comenzamos a contribuir solicitando pull request a la copia
-     principal.
-1. Git
-1. Git prima
+     principal.)
 1. Julia (diagonalizacion, hablar de RMT, o del mapeo logistico)
    * Sintaxis
    * Jupyper-notebook
