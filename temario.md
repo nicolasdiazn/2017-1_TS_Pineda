@@ -5,18 +5,13 @@ por clases y lo adaptaremso conforme vayamos avanzando.
 
 Objetivos: 
 ==========
-Enseñar algunas herramientas de programación eficientes y modernas
-para poder atacar problemas actuales. Escogemos Julia y git
-como herramientas fundamentales para hacer este curso, pues 
-deseamos tener un marco común. También deseamos enseñar a 
-_colaborar_ de manera eficiente.
+* Enseñar algunas herramientas de programación eficientes y modernas (Julia,
+  git y Travis CI) para poder atacar problemas actuales. 
+* También deseamos enseñar a usar herramientas que permitan _colaborar_ de manera eficiente.
+* Saber como se piensa cuando se hace investigación, es decir de manera no
+  lineal y sin un camino claro. 
+* Aprender elementos de información cuántica.
 
-Saber como se piensa cuando se hace investigación, es decir de manera 
-no lineal y sin un camino claro. 
-
-Aprender elementos de información cuántica.
-
-* Ojo, estandarizar la definicion de los objetos,nerrar lso qubits, que es el qubit cero, el primer elemento del array es 1 o es 0 
 
 Temario (16 semanas):
 =====================
