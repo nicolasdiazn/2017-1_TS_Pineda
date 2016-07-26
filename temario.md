@@ -1,11 +1,10 @@
 Nota:
 =====
-Este documento irá cambiando conforme evolucione el curso. Organizaré el temario
-por clases, y conforme vea que vayamos avanzando.
+Este documento irá cambiando conforme evolucione el curso. Organizaremos el temario
+por clases y lo adaptaremso conforme vayamos avanzando.
 
 Objetivos: 
 ==========
-
 Enseñar algunas herramientas de programación eficientes y modernas
 para poder atacar problemas actuales. Escogemos Julia y git
 como herramientas fundamentales para hacer este curso, pues 
