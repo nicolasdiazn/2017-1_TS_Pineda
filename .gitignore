@@ -21,6 +21,8 @@ Tesis/Tesis_Nephtali.pdf
 
 2017-1_TS_Pineda
 
+*.fdb_latexmk
+*.fls
 
 *bbl 
 *.blg 
