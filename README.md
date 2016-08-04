@@ -65,6 +65,8 @@ en combinación con [IJulia](https://github.com/JuliaLang/IJulia.jl) en clase.
 	- [Tutorial de David Sanders (scipy2014)](https://github.com/dpsanders/scipy_2014_julia/blob/master/Introduction%20to%20Julia.ipynb)
 	- [Hands_on_julia](https://github.com/dpsanders/hands_on_julia)
 	- [JuliaBox](juliabox.org)
+	- Libros para aprender Julia: 
+		- [Julia High Performance de Avik Sengupta](https://www.packtpub.com/application-development/julia-high-performance)
 - **Tutoriales de git**
 	- [Become a Git guru](https://www.atlassian.com/git/tutorials/)
 	- [Learn Git branching](http://pcottle.github.io/learnGitBranching)
