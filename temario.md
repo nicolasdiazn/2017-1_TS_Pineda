@@ -5,12 +5,14 @@ por clases y lo adaptaremos a medida que vayamos avanzando.
 
 Objetivos: 
 ==========
-* Conocer algunas herramientas de programación eficientes y modernas (julia,
+* Conocer algunas herramientas de programación eficientes y modernas (Julia,
   git y Travis CI) para poder atacar problemas actuales. 
-* Aprender a usar git para _colaborar_ de manera eficiente.
+  * Aprender a usar git para _colaborar_ de manera eficiente.
+  * Aprender a usar julia para _calcular_ y visualizar datos.
+  * Usar Travis CI para controlar que nuestro código.
+* Aprender elementos de información cuántica.
 * Saber como se piensa cuando se hace investigación, es decir de manera no
   lineal y sin un camino claro. 
-* Aprender elementos de información cuántica.
 
 
 Temario (16 semanas):
@@ -22,6 +24,7 @@ Temario (16 semanas):
    Se comentará en general el estilo de trabajo para el curso.
 1. Git
    * Comandos basicos: add, commit, push, pull y clone.
+   * Autenticación automatica 
    * Pull request y merging.
 [//]: # ( * Propongo que en esta clase todos comiencen con su libreria, que hagan una cuenta y clonen el repositorio y agreguen por lo menos un primer commit. )
 [//]: # ( * Aqui Luis y David hicieron un primer ejemplo de libreria, todos hicimos git fork y comenzamos a contribuir solicitando pull request a la copia principal.)
