@@ -89,6 +89,9 @@ en sus computadoras. Pueden encontrar ayuda en
 En Windows, se debería poder hacer click. Desde linux, depende 
 de cada distribución. Es probable que ya lo tengan instalado. 
 
+Aquellos que no quieran o no puedan traer su compu, deben avisarme y hacemos los ajustes necesarios. 
+
+
 Deben poder ejecutar 
 ~~~~
 git help
