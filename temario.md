@@ -12,7 +12,7 @@ Objetivos:
   * Usar Travis CI para controlar que nuestro código.
 * Aprender elementos de información cuántica.
 * Saber como se piensa cuando se hace investigación, es decir de manera no
-  lineal y sin un camino claro. 
+  lineal y sin una meta 100% bien definida.
 
 
 Temario (16 semanas):
