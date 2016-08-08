@@ -83,7 +83,9 @@ en combinación con [IJulia](https://github.com/JuliaLang/IJulia.jl) en clase.
 #### Tarea para la siguiente clase
 
 Para la siguiente clase deben tener instalado [git](https://git-scm.com/downloads)
-en sus computadoras. En Windows, se debería poder hacer click. Desde linux, depende 
+en sus computadoras. Pueden encontrar ayuda en 
+[https://help.github.com/articles/set-up-git/](https://help.github.com/articles/set-up-git/)
+En Windows, se debería poder hacer click. Desde linux, depende 
 de cada distribución. Es probable que ya lo tengan instalado. 
 
 Deben poder ejecutar 
