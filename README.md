@@ -3,7 +3,9 @@
 
 ### Carlos Pineda, Instituto de Física, UNAM
 ### David Davalos, Instituto de Física, UNAM
-El formato y métodos de este curso estan inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional). Sin embargo, el contenido del curso es bastante diferente.
+El formato y métodos de este curso están inspirados en [este curso](https://github.com/lbenet/2016-2_TSFisicaComputacional). Sin embargo, el contenido del curso es bastante diferente.
+
+La primera parte del curso trabajaremos de manera interactiva, cada quien con su computadora, para ir aprendiendo a manejar las herramientas. A medida que el maestro o el ayudante van mostrando el progreso en el proyector, los estudiantes puede ir reproduciendo lo que ven en sus computadoras. Frecuentemente se les pedirá a los estudiantes que hagan ejercicios durante el transcurso de la clase. 
 
 ---
 
@@ -42,7 +44,7 @@ request](https://help.github.com/articles/using-pull-requests/) por GitHub. A
 su debido tiempo, deben pasar los tests de CI Travis. El tiempo máximo de
 entrega de cada tarea es de 2 semanas.
 
-El proyecto final consiste en estudiar un problema usando las herramientas
+El proyecto final consiste en estudiar un problema usando las 
 herramientas desarrolladas en el curso y presentarlo en forma oral. Los
 problemas serán propuestos a su debido tiempo. Pueden encontrar algunas
 propuestas preliminares en el [temario](temario.md). La presentación consiste
