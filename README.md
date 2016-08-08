@@ -78,3 +78,15 @@ en combinación con [IJulia](https://github.com/JuliaLang/IJulia.jl) en clase.
 	- [Markdown syntax guide](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)
 - **Travis CI**
 	- [Guía oficial](https://docs.travis-ci.com/)
+
+
+#### Tarea para la siguiente clase
+
+
+#### Objetivos clase 1:
+
+- Explicar la forma en que se trabajará
+- Explicar la forma en que se calificará
+- Mostrar el temario
+- Ponerse de acuerdo para el horario
+
