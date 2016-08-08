@@ -1,7 +1,7 @@
 Nota:
 =====
 Este documento irá cambiando conforme evolucione el curso. Organizaremos el temario
-por clases y lo adaptaremso conforme vayamos avanzando.
+por clases y lo adaptaremos a medida que vayamos avanzando.
 
 Objetivos: 
 ==========
