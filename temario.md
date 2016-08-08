@@ -5,7 +5,7 @@ por clases y lo adaptaremos a medida que vayamos avanzando.
 
 Objetivos: 
 ==========
-* Conocer algunas herramientas de programación eficientes y modernas (Julia,
+* Conocer algunas herramientas de programación eficientes y modernas (julia,
   git y Travis CI) para poder atacar problemas actuales. 
 * Aprender a usar git para _colaborar_ de manera eficiente.
 * Saber como se piensa cuando se hace investigación, es decir de manera no
