@@ -76,6 +76,7 @@ en combinación con [IJulia](https://github.com/JuliaLang/IJulia.jl) en clase.
 	- [Sincronizar un fork](https://help.github.com/articles/syncing-a-fork/)
 - **Guía de sintaxis en markdown**
 	- [Markdown syntax guide](https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide)
+	- [Markdown quick reference](https://en.support.wordpress.com/markdown-quick-reference/)
 - **Travis CI**
 	- [Guía oficial](https://docs.travis-ci.com/)
 
