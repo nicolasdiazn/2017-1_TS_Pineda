@@ -32,9 +32,8 @@ Temario (16 semanas):
    * Sintaxis
    * Jupyper-notebook
      * Markdown
-     * Yo uso la version de anaconda, esta bien mantenida.
    * Librerias: Llamar y hacer
-   * Usar \textit{static type}, Amaro dice que es la forma de sacarle jugo a Julia.
+   * _static type_, o como sacarle jugo a Julia.
    * Definir funciones
    * Operadores logicos
    * Loops: definir bien el conteo de los elementos del estado.
@@ -66,10 +65,6 @@ Temario (16 semanas):
    * Decoherencia Explicar un poco de spin flip, phase flip, etc.
 1. Compuertas de dos qubits y algun ejemplo, entaglement swaping?
 1. Concatenacion de compuertas, cadena con un defecto. (ver con carlos gonzales) 
-
-Quiza en las cosas introductorias de Julia, poner algo de RMT. Quiza la P(s). 
-
-Uno de los proyectos, puede ser construir la base simetrica para la cadena
 
 Lista de ejemplos para estudiar a medida que aprendemos Julia
 =============================================================
