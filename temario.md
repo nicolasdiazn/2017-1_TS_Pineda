@@ -87,7 +87,10 @@ Algunas alternativas para proyectos finales
   Estudiar la cadena de Ising y constuir una base que sea consistente con dicha
   simetría.
 * Rompimiento de simetria y caos cuantico: Trabajo de Carlos.
+* Estimar los form factors de sistemas cuanticos, como la cadena con una inhomogeneidad, usando estados aleatorios
 * ambientes anidados
-\item Transformada cuantica de fourier
-\item Que tal que implementen todo el asunto de representaciones de canales cuanticos y operaciones importantes como Reshuffling y esas cosas.
-\item Cosas de variable continua tipo qutip.
+* Transformada cuantica de fourier
+* Que tal que implementen todo el asunto de representaciones de canales cuanticos y operaciones importantes como Reshuffling y esas cosas.
+* Cosas de variable continua tipo qutip.
+* Jugar con https://github.com/JuliaQuantum y quizá hacer un Jaynes–Cummings
+* Estudiar la Integrated Information (ver charla en CCS2016 de Pedro) en cadenas de espin. Posibles configuraciones: una sola cadena caotica/integrable, dos cadenas, una integrable y otra caotica o dos caoticas, sistema de qubit y ambiente, o qubit y dos ambientes.
