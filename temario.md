@@ -76,4 +76,6 @@ Algunas alternativas para proyectos finales
   caotica/integrable, dos cadenas, una integrable y otra caotica o dos
   caoticas, sistema de qubit y ambiente, o qubit y dos ambientes.
 * Tomografía de varios qubits, costo computacional y compressed sensing
+* _Benchmarking de nuestas rutinas_ La idea es hacer un benchmarking en serio, y comparar el 
+  desempeño de lo desarrollado aca con rutinas uqe tenemos en fortran, c++ y python.
 
