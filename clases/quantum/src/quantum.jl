@@ -4,8 +4,7 @@ module quantum
 
 using LsqFit: curve_fit
 
-export random_state, projector, sigma_x, sigma_y, sigma_z, sigmas, apply_unitary!, apply_ising!, testbit, staircase, unfolding, apply_kick!
-
+export random_state, projector, sigma_x, sigma_y, sigma_z, sigmas, apply_unitary!, apply_ising!, testbit, staircase, unfolding, apply_kick!, base_state, P_Unitary, P_Orthogonal
 
 
 """
@@ -79,10 +78,10 @@ end
 function apply_kick!(psi, b, target_qubit)
     phi=norm(b)
     if phi!=0
-    b_normalized=b/phi
-    sigma_n=sigmas[1]*b_normalized[1]+sigmas[2]*b_normalized[2]+sigmas[3]*b_normalized[3]
-    u=eye(2)*cos(phi)-1.0im*sigma_n*sin(phi)
-    apply_unitary!(psi, u, target_qubit)
+        b_normalized=b/phi
+        sigma_n=sigmas[1]*b_normalized[1]+sigmas[2]*b_normalized[2]+sigmas[3]*b_normalized[3]
+        u=eye(2)*cos(phi)-1.0im*sigma_n*sin(phi)
+        apply_unitary!(psi, u, target_qubit)
     end
 end 
 
@@ -101,6 +100,23 @@ function unfolding(list)
     fit = curve_fit(model, x, y,ones(10));
     p=fit.param;
     return model(list,p)
+end
+
+"""
+Construye los elementos de la base
+"""
+function base_state(i,dim)
+    psi=zeros(Complex{Float64},dim)
+    psi[i+1]=1;
+    return psi
+end
+
+function P_Orthogonal(x)
+    return x.*exp(-x.^2*pi/4)*pi/2
+end
+
+function P_Unitary(x)
+    return (x.^2*32/pi^2).*exp(-x.^2*4/pi)
 end
 
 end
